@@ -1,0 +1,20 @@
+.tbd-event-list-row {
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+	font-size:1.2em;
+	text-align:center;
+	align-items:center;
+	margin:5px 0;
+}
+.tbd-event-list-title {
+	font-weight:800;
+
+}
+.tbd-event-list-cta{
+	background:#120c36;
+	color:#fff;
+	padding:.5em;
+	border-radius:10px;
+	text-align:center;
+	font-weight:600;
+}
